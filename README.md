@@ -3,7 +3,7 @@
 
 ### Links
 
-- Solution URL: [Github](https://github.com/shweta-dabhole/Easy-Bank-Landing-Page-Frontend-Mentor-Challenge/blob/main/README.md)
+- Solution URL: [Github](https://github.com/shweta-dabhole/Easy-Bank-Landing-Page-Frontend-Mentor-Challenge)
 - Live Site URL: [Netlify Link](https://easy-bank-landing-page-frontend-mentor-challenge.vercel.app/)
 
 ### ScreenShot
