@@ -3,8 +3,8 @@
 
 ### Links
 
-- Solution URL: [Github](https://github.com/shweta-dabhole/Frontend-Mentor-Challenges/tree/main/intro-section-with-dropdown-navigation-main)
-- Live Site URL: [Netlify Link](https://easybank-landing-page-codesubtle.netlify.app/)
+- Solution URL: [Github](https://www.frontendmentor.io/solutions/easy-bank-landing-page-main-6u7mVVRNU7)
+- Live Site URL: [Netlify Link](https://easy-bank-landing-page-frontend-mentor-challenge.vercel.app/)
 
 ### ScreenShot
 
